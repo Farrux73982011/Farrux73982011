@@ -1,3 +1,6 @@
+PREVIEW
+MARKDOWN
+COPY
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farrux
 ==============================================================================================================================
 
@@ -6,8 +9,12 @@ Web Developer, Designer and game creator.
 
 I started learning programming at the age of 11. I started learning English from the age of 6, 7. First I started learning web development with Python. Then I started teaching myself video editing and photo editing. Then I wanted to create my own game like Minecraft and CS. And I started learning from Unity engines, Undereal, Source 2. And from C# languages.
 
-*   🌍  I'm based in Uzbekistan<a href="https://www.github.com/Farrux73982011" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Farrux73982011?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in Uzbekistan
+
+<a href="https://www.github.com/Farrux73982011" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Farrux73982011?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -36,17 +43,14 @@ I started learning programming at the age of 11. I started learning English from
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/Fminer7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Farrux73982011" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/fminer_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitch.tv/fminer7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Farrux73982011"><img src="https://github-readme-stats.vercel.app/api?username=Farrux73982011&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Farrux73982011's GitHub stats" /></a><a href="https://github.com/Farrux73982011" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrux73982011&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Fminer7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Farrux73982011" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fminer_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/fminer7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Farrux73982011"><img src="https://github-readme-stats.vercel.app/api?username=Farrux73982011&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Farrux73982011's GitHub stats" /></a>
+
+<a href="https://github.com/Farrux73982011" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrux73982011&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
