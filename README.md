@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/Farrux73982011?logo=github&style=fo
  <div align="left" width="50%">
 <h3 align="center">I am a developer from Uzbekistan</h3>
 
-### Skills
+### 🛠 &nbsp;Languages and Tools :
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
