@@ -10,6 +10,14 @@ I started learning programming at the age of 11. I started learning English from
 
 <a href="https://www.github.com/Farrux73982011" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Farrux73982011?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+
+<div width=100% align="center">
+  <img  alt="Person coding gif" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif" height="250" width="300" /> 
+ <div width="50%">
+
+ <div align="left" width="50%">
+<h3 align="center">I am a developer from Uzbekistan</h3>
+
 ### Skills
 
 <p align="left">
