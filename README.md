@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Designer and game creator.
 -----------------------------------------
 
-I started learning programming at the age of 11. I started learning English from the age of 6, 7. First I started learning web development with Python. Then I started teaching myself video editing and photo editing. Then I wanted to create my own game like Minecraft and CS. And I started learning from Unity engines, Undereal, Source 2. And from C# languages.
+I started learning programming at the age of 11.5. I started learning English from the age of 6, 7. First I started learning web development with Python. Then I started teaching myself video editing and photo editing. Then I wanted to create my own game like Minecraft and CS. And I started learning from Unity engines, Undereal, Source 2. And from C# languages.
 
 * 🌍  I'm based in Uzbekistan
 
